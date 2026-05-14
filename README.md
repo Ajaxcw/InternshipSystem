@@ -28,6 +28,9 @@
 - 登录成功后，**打卡管理、周报批阅、Agent智能体、推送报告**四个模块自动共享登录状态
 - 无需在每个模块中重复登录
 
+<img width="1404" height="947" alt="图片" src="https://github.com/user-attachments/assets/3cdaa1b5-b3ed-485d-98dd-e39b86aacc9e" />
+
+
 ---
 
 ## 二、⏰ 实习打卡管理
@@ -81,6 +84,9 @@
 
 - 生成日报后，如果推送页面配置了"生成打卡时报后自动推送到微信群"，会自动执行推送
 
+
+<img width="1404" height="947" alt="图片" src="https://github.com/user-attachments/assets/5ff7acdd-12a4-4735-9450-b3a751b2ba97" />
+
 ---
 
 ## 三、📝 周报批阅系统
@@ -120,6 +126,9 @@
 ### 3.3 自动批阅
 
 - 系统支持自动批阅功能，可批量处理未批阅的周报
+
+
+<img width="1404" height="947" alt="图片" src="https://github.com/user-attachments/assets/2f82c629-64d9-4707-b0d8-600f3539aea2" />
 
 ---
 
@@ -164,6 +173,9 @@ Agent 智能体提供 AI 驱动的智能分析功能，包括：
 - Agent 页面提供聊天式交互界面
 - 支持发送消息、查看分析结果
 - 分析报告自动保存到 `agent_reports/` 目录
+
+<img width="1404" height="947" alt="图片" src="https://github.com/user-attachments/assets/69e1179c-bfe9-4f05-95e5-02f942f5c5c2" />
+
 
 ---
 
@@ -216,6 +228,9 @@ Agent 智能体提供 AI 驱动的智能分析功能，包括：
   - 推送打卡地点分析（异常地点分析图片）
   - 推送 agent 打卡分析（分析报告文本）
 
+<img width="1404" height="947" alt="图片" src="https://github.com/user-attachments/assets/e9b84fa7-d228-454d-8888-0e7c2c8062a6" />
+
+
 ---
 
 ## 六、🎨 主题与设置
@@ -224,6 +239,8 @@ Agent 智能体提供 AI 驱动的智能分析功能，包括：
 
 - 点击左侧活动栏底部的 **☀️/🌙** 按钮切换暗色/亮色主题
 - 主题切换会同步应用到所有页面
+
+<img width="1404" height="947" alt="图片" src="https://github.com/user-attachments/assets/99b7a806-bab0-4e4c-aad8-b0bf8586277f" />
 
 ### 6.2 系统设置（⚙ 齿轮按钮）
 
@@ -252,6 +269,9 @@ Agent 智能体提供 AI 驱动的智能分析功能，包括：
 - 系统版本信息
 - 功能列表
 - 作者联系方式
+
+
+<img width="624" height="702" alt="图片" src="https://github.com/user-attachments/assets/b742fddd-520b-4c5c-b6c5-af3706ff2145" />
 
 ---
 
